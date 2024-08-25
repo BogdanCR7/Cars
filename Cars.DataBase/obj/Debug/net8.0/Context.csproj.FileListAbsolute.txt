@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Context.deps.json
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Context.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Context.pdb
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Entities.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Helpers.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Entities.pdb
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Helpers.pdb
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.AssemblyInfo.cs
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.csproj.Up2Date
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.dll
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\refint\Context.dll
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\Context.pdb
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\ref\Context.dll

@@ -1,0 +1,15 @@
+C:\Users\bogda\source\repos\Cars\Cars.Dto\bin\Debug\net8.0\Cars.Dto.deps.json
+C:\Users\bogda\source\repos\Cars\Cars.Dto\bin\Debug\net8.0\Cars.Dto.dll
+C:\Users\bogda\source\repos\Cars\Cars.Dto\bin\Debug\net8.0\Cars.Dto.pdb
+C:\Users\bogda\source\repos\Cars\Cars.Dto\bin\Debug\net8.0\Cars.Common.dll
+C:\Users\bogda\source\repos\Cars\Cars.Dto\bin\Debug\net8.0\Cars.Common.pdb
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.csproj.Up2Date
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.dll
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\refint\Cars.Dto.dll
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\Cars.Dto.pdb
+C:\Users\bogda\source\repos\Cars\Cars.Dto\obj\Debug\net8.0\ref\Cars.Dto.dll

@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\DataBase.deps.json
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\DataBase.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\DataBase.pdb
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Entities.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Helpers.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Entities.pdb
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Helpers.pdb
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.AssemblyInfo.cs
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.csproj.Up2Date
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.dll
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\refint\DataBase.dll
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DataBase.pdb
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\ref\DataBase.dll

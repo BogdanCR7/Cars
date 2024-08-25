@@ -1,0 +1,764 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|solutionrelative:controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F73D6-B22B-48FE-A319-8BFFDACC4365}|..\\Cars.Services\\Cars.Services.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.services\\vehicleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\vehicle\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FC0883-F12B-4A3A-8226-BA975EE27AAF}|..\\Cars.Interfaces\\Cars.Interfaces.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.interfaces\\sevices\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F73D6-B22B-48FE-A319-8BFFDACC4365}|..\\Cars.Services\\Cars.Services.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FC0883-F12B-4A3A-8226-BA975EE27AAF}|..\\Cars.Interfaces\\Cars.Interfaces.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.interfaces\\sevices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151648_int312122212.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116B69DB-BE80-4A7C-A910-4228616073DD}|..\\Cars.Entities\\Cars.Entities.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116B69DB-BE80-4A7C-A910-4228616073DD}|..\\Cars.Entities\\Cars.Entities.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151445_int3121222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151309_int312122.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.api\\cars.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|solutionrelative:cars.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272B18D8-30D2-434C-ADF1-E544B405A8D5}|..\\Cars.DataBase\\Cars.DbContext.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.database\\cars.dbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FC0883-F12B-4A3A-8226-BA975EE27AAF}|..\\Cars.Interfaces\\Cars.Interfaces.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.interfaces\\dataproviders\\ivehicledataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E5D1C-E656-4AF3-86A0-E1ABDB7FD4CE}|..\\Cars.Helpers\\Cars.Helpers.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.helpers\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272B18D8-30D2-434C-ADF1-E544B405A8D5}|..\\Cars.DataBase\\Cars.DbContext.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E5D1C-E656-4AF3-86A0-E1ABDB7FD4CE}|..\\Cars.Helpers\\Cars.Helpers.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.helpers\\exceptionhandlingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC45B92A-2737-4758-ADA5-25C5DD573F96}|..\\Cars.DataProviders\\Cars.DataProviders.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dataproviders\\employeedataprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1A542C-D268-482E-BE98-2303D46DFE4E}|..\\Cars.Common\\Cars.Common.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.common\\successresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1A542C-D268-482E-BE98-2303D46DFE4E}|..\\Cars.Common\\Cars.Common.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.common\\serverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1A542C-D268-482E-BE98-2303D46DFE4E}|..\\Cars.Common\\Cars.Common.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.common\\iserverresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D28968-1840-47E9-836E-6C46238BED41}|..\\Cars.Mapper\\Cars.Mapper.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FC0883-F12B-4A3A-8226-BA975EE27AAF}|..\\Cars.Interfaces\\Cars.Interfaces.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.interfaces\\dataproviders\\iemployeedataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC45B92A-2737-4758-ADA5-25C5DD573F96}|..\\Cars.DataProviders\\Cars.DataProviders.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dataproviders\\vehicledataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337F73D6-B22B-48FE-A319-8BFFDACC4365}|..\\Cars.Services\\Cars.Services.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.services\\cars.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\vehicle\\checkvehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\employee\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\employee\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\employee\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\vehicle\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827E5D1C-E656-4AF3-86A0-E1ABDB7FD4CE}|..\\Cars.Helpers\\Cars.Helpers.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.helpers\\cars.helpers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\vehicle\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FC0883-F12B-4A3A-8226-BA975EE27AAF}|..\\Cars.Interfaces\\Cars.Interfaces.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.interfaces\\cars.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF30BD2-4E5C-47B3-84E0-BBEA832386E9}|..\\Cars.Dto\\Cars.Dto.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.dto\\cars.dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Cars.Interfaces\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824135610_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824134914_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.api\\cars.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|solutionrelative:cars.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|c:\\users\\bogda\\source\\repos\\cars\\cars.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBDB0433-31AC-4FD8-9746-B2CCFF9AC1A3}|Cars.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\DataBase\\Cars.DbContext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824135829_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\DataBase\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Helpers\\ModelBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Entities\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\source\\repos\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240825151648_int312122212.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151648_int312122212.cs",
+              "RelativeDocumentMoniker": "..\\Cars.DataBase\\Migrations\\20240825151648_int312122212.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151648_int312122212.cs",
+              "RelativeToolTip": "..\\Cars.DataBase\\Migrations\\20240825151648_int312122212.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:16:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240825151445_int3121222.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151445_int3121222.cs",
+              "RelativeDocumentMoniker": "..\\Cars.DataBase\\Migrations\\20240825151445_int3121222.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151445_int3121222.cs",
+              "RelativeToolTip": "..\\Cars.DataBase\\Migrations\\20240825151445_int3121222.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:14:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240825151309_int312122.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151309_int312122.cs",
+              "RelativeDocumentMoniker": "..\\Cars.DataBase\\Migrations\\20240825151309_int312122.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Migrations\\20240825151309_int312122.cs",
+              "RelativeToolTip": "..\\Cars.DataBase\\Migrations\\20240825151309_int312122.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:13:09.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CheckVehicleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\CheckVehicleResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Vehicle\\CheckVehicleResponseDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\CheckVehicleResponseDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Vehicle\\CheckVehicleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:12:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "Controllers\\VehiclesController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:29:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SuccessResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Common\\SuccessResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Common\\SuccessResponseDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Common\\SuccessResponseDto.cs",
+              "RelativeToolTip": "..\\Cars.Common\\SuccessResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:23:36.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cars.Helpers.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Helpers\\Cars.Helpers.csproj",
+              "RelativeDocumentMoniker": "..\\Cars.Helpers\\Cars.Helpers.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Helpers\\Cars.Helpers.csproj",
+              "RelativeToolTip": "..\\Cars.Helpers\\Cars.Helpers.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T18:13:45.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionHandlingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Helpers\\ExceptionHandlingExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Helpers\\ExceptionHandlingExtensions.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Helpers\\ExceptionHandlingExtensions.cs",
+              "RelativeToolTip": "..\\Cars.Helpers\\ExceptionHandlingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:13:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Common\\ServerResponse.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Common\\ServerResponse.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Common\\ServerResponse.cs",
+              "RelativeToolTip": "..\\Cars.Common\\ServerResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T18:08:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Services\\EmployeeService.cs",
+              "RelativeToolTip": "..\\Cars.Services\\EmployeeService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwCsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:51:48.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\Sevices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Interfaces\\Sevices\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\Sevices\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\Cars.Interfaces\\Sevices\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:51:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cars.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Services\\Cars.Services.csproj",
+              "RelativeDocumentMoniker": "..\\Cars.Services\\Cars.Services.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Services\\Cars.Services.csproj",
+              "RelativeToolTip": "..\\Cars.Services\\Cars.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T17:39:36.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\Sevices\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Interfaces\\Sevices\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\Sevices\\IVehicleService.cs",
+              "RelativeToolTip": "..\\Cars.Interfaces\\Sevices\\IVehicleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:39:02.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VehicleDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataProviders\\VehicleDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\Cars.DataProviders\\VehicleDataProvider.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataProviders\\VehicleDataProvider.cs",
+              "RelativeToolTip": "..\\Cars.DataProviders\\VehicleDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:37:23.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVehicleDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\DataProviders\\IVehicleDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Interfaces\\DataProviders\\IVehicleDataProvider.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\DataProviders\\IVehicleDataProvider.cs",
+              "RelativeToolTip": "..\\Cars.Interfaces\\DataProviders\\IVehicleDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:36:48.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cars.Interfaces.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\Cars.Interfaces.csproj",
+              "RelativeDocumentMoniker": "..\\Cars.Interfaces\\Cars.Interfaces.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\Cars.Interfaces.csproj",
+              "RelativeToolTip": "..\\Cars.Interfaces\\Cars.Interfaces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T17:32:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\UpdateVehicleDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Vehicle\\UpdateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\UpdateVehicleDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Vehicle\\UpdateVehicleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:52:14.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Vehicle\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\CreateVehicleDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Vehicle\\CreateVehicleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:51:51.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Vehicle\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Vehicle\\VehicleDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Vehicle\\VehicleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:51:32.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Cars.Dto.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Cars.Dto.csproj",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Cars.Dto.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Cars.Dto.csproj",
+              "RelativeToolTip": "..\\Cars.Dto\\Cars.Dto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T15:51:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Employee\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Employee\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Employee\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Employee\\UpdateEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:50:47.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Employee\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Employee\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Employee\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Employee\\CreateEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:50:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IServerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Common\\IServerResponse.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Common\\IServerResponse.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Common\\IServerResponse.cs",
+              "RelativeToolTip": "..\\Cars.Common\\IServerResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:46:50.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "..\\Cars.Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:40:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDataProvider .cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataProviders\\EmployeeDataProvider .cs",
+              "RelativeDocumentMoniker": "..\\Cars.DataProviders\\EmployeeDataProvider .cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataProviders\\EmployeeDataProvider .cs",
+              "RelativeToolTip": "..\\Cars.DataProviders\\EmployeeDataProvider .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:40:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Employee\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Dto\\Employee\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Dto\\Employee\\EmployeeDto.cs",
+              "RelativeToolTip": "..\\Cars.Dto\\Employee\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:39:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEmployeeDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\DataProviders\\IEmployeeDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Interfaces\\DataProviders\\IEmployeeDataProvider.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Interfaces\\DataProviders\\IEmployeeDataProvider.cs",
+              "RelativeToolTip": "..\\Cars.Interfaces\\DataProviders\\IEmployeeDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:37:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleService .cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Services\\VehicleService .cs",
+              "RelativeDocumentMoniker": "..\\Cars.Services\\VehicleService .cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Services\\VehicleService .cs",
+              "RelativeToolTip": "..\\Cars.Services\\VehicleService .cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAlwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:37:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Helpers\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Helpers\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Helpers\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "..\\Cars.Helpers\\ModelBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:36:55.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Entities\\Employee.cs",
+              "RelativeToolTip": "..\\Cars.Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:36:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\Cars.Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Entities\\Vehicle.cs",
+              "RelativeToolTip": "..\\Cars.Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:36:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Cars.DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Cars.DataBase\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:36:08.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cars.DbContext.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Cars.DbContext.csproj",
+              "RelativeDocumentMoniker": "..\\Cars.DataBase\\Cars.DbContext.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.DataBase\\Cars.DbContext.csproj",
+              "RelativeToolTip": "..\\Cars.DataBase\\Cars.DbContext.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T15:34:15.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars.Interfaces\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Cars.Interfaces\\Class1.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars.Interfaces\\Class1.cs",
+              "RelativeToolTip": "..\\..\\Cars.Interfaces\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:02:54.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:00:12.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cars.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Cars.Api.csproj",
+              "RelativeDocumentMoniker": "Cars.Api.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Cars.Api.csproj",
+              "RelativeToolTip": "Cars.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T13:58:55.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cars.DbContext.csproj",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\DataBase\\Cars.DbContext.csproj",
+              "RelativeDocumentMoniker": "..\\..\\DataBase\\Cars.DbContext.csproj",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\DataBase\\Cars.DbContext.csproj",
+              "RelativeToolTip": "..\\..\\DataBase\\Cars.DbContext.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T13:59:09.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240824135829_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824135829_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataBase\\Migrations\\20240824135829_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824135829_InitialMigration.cs",
+              "RelativeToolTip": "..\\..\\DataBase\\Migrations\\20240824135829_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:58:29.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240824135610_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824135610_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataBase\\Migrations\\20240824135610_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824135610_InitialMigration.cs",
+              "RelativeToolTip": "..\\..\\DataBase\\Migrations\\20240824135610_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:56:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240824134914_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824134914_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataBase\\Migrations\\20240824134914_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\DataBase\\Migrations\\20240824134914_InitialMigration.cs",
+              "RelativeToolTip": "..\\..\\DataBase\\Migrations\\20240824134914_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:49:14.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\DataBase\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:46:39.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cars.http",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Cars.http",
+              "RelativeDocumentMoniker": "Cars.http",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Cars.http",
+              "RelativeToolTip": "Cars.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-24T13:11:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T13:07:11.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Helpers\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\Helpers\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Helpers\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "..\\..\\Helpers\\ModelBuilderExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:04:12.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\..\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "..\\..\\Entities\\Vehicle.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:59:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\..\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\..\\Entities\\Employee.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:49:53.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\Cars\\Cars.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:47:50.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

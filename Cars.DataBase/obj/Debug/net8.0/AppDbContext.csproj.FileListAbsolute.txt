@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\AppDbContext.deps.json
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\AppDbContext.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\AppDbContext.pdb
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Entities.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Helpers.dll
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Entities.pdb
+C:\Users\bogda\source\repos\DataBase\bin\Debug\net8.0\Helpers.pdb
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.AssemblyInfo.cs
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbCon.7D6897F8.Up2Date
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.dll
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\refint\AppDbContext.dll
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\AppDbContext.pdb
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\ref\AppDbContext.dll

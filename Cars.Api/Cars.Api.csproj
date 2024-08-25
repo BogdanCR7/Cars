@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cars.DataBase\Cars.DbContext.csproj" />
+    <ProjectReference Include="..\Cars.Helpers\Cars.Helpers.csproj" />
+    <ProjectReference Include="..\Cars.Interfaces\Cars.Interfaces.csproj" />
+    <ProjectReference Include="..\Cars.Mapper\Cars.Mapper.csproj" />
+    <ProjectReference Include="..\Cars.Services\Cars.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DbContext.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DbContext.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DbContext.AssemblyInfo.cs
+C:\Users\bogda\source\repos\DataBase\obj\Debug\net8.0\DbContext.csproj.CoreCompileInputs.cache

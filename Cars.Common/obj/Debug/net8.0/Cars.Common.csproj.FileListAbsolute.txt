@@ -1,0 +1,11 @@
+C:\Users\bogda\source\repos\Cars\Cars.Common\bin\Debug\net8.0\Cars.Common.deps.json
+C:\Users\bogda\source\repos\Cars\Cars.Common\bin\Debug\net8.0\Cars.Common.dll
+C:\Users\bogda\source\repos\Cars\Cars.Common\bin\Debug\net8.0\Cars.Common.pdb
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\Cars.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\Cars.Common.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\Cars.Common.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\Cars.Common.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\Cars.Common.dll
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\refint\Cars.Common.dll
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\Cars.Common.pdb
+C:\Users\bogda\source\repos\Cars\Cars.Common\obj\Debug\net8.0\ref\Cars.Common.dll

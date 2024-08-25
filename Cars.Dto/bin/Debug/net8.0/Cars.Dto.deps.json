@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cars.Dto/1.0.0": {
+        "dependencies": {
+          "Cars.Common": "1.0.0"
+        },
+        "runtime": {
+          "Cars.Dto.dll": {}
+        }
+      },
+      "Cars.Common/1.0.0": {
+        "runtime": {
+          "Cars.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cars.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cars.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
